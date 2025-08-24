@@ -30,7 +30,7 @@
 
 ### Задание 2
 
-Поле для вставки кода...
+```
 stages:
   - test
   - build
@@ -50,9 +50,10 @@ build:
    - docker build .
   tags:
     - netology
+```
 
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](imagegit push origin main-3.png)
 
